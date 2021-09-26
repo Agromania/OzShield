@@ -1,6 +1,6 @@
 #+TITLE: OzShield
 
-An alt-history fork from [[armory][https://github.com/heraldry/armory]]
+An alt-history fork from [armory](https://github.com/heraldry/armory)
 
 ** About
 An attempt to realise an Australian heraldic tradition that incorporates unique flora fauna, and other designs
